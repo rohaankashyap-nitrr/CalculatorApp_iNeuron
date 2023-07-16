@@ -10,6 +10,8 @@ It is a project on calculator app which is a frontend web application. It has be
 
 ![image](https://github.com/rohaankashyap-nitrr/CalculatorApp_iNeuron/assets/139712894/5e40a896-3e9f-4136-a5c4-fcf2d46466f0)
 ![image](https://github.com/rohaankashyap-nitrr/CalculatorApp_iNeuron/assets/139712894/7a8ee4c6-eb8f-4a71-bfb7-fcb02a4e671f)
+![first](https://github.com/rohaankashyap-nitrr/CalculatorApp_iNeuron/assets/139712894/b765e075-0f59-45d3-9144-62e33ef99f05)
+
 
 # Technology used
 ReactJs
