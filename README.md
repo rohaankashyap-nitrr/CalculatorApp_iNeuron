@@ -1,4 +1,4 @@
-# Modern Calculator App
+## Modern Calculator App
 
 # Description
 It is a project on calculator app which is a frontend web application. It has been created using ReactJs.
